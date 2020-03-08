@@ -1,0 +1,30 @@
+2020-03-09 01:22;34 DEBUG Collection:13 - Initial state:-1 2 3 4 5 6 7 8 9 10
+2020-03-09 01:22;34 INFO  Collection:14 - add elements to the list 
+2020-03-09 01:22;34 INFO  Collection:15 - How many elements do you want to add in a list : 
+2020-03-09 01:22;39 INFO  Collection:17 - Enter Elements:-
+2020-03-09 01:22;42 DEBUG Collection:25 - The element 11 is added in collection
+2020-03-09 01:22;42 DEBUG Collection:22 - Total list after adding elements : 1 2 3 4 5 6 7 8 9 10 11
+2020-03-09 01:22;42 INFO  Collection:23 - insert at given posistion in the list 
+2020-03-09 01:22;42 INFO  Collection:24 - In which position do you want to add element : 
+2020-03-09 01:22;46 INFO  Collection:26 - Enter the element to be added in the list : 
+2020-03-09 01:22;50 DEBUG Collection:95 - The value 1 is inserted in  posistion 2
+2020-03-09 01:22;50 DEBUG Collection:29 - Total list after Inserting a element position :- 1 2 1 3 4 5 6 7 8 9 10 11
+2020-03-09 01:22;50 INFO  Collection:30 - enter the index to be removed : 
+2020-03-09 01:22;53 DEBUG Collection:33 - Total list after removing elements : 1 2 3 4 5 6 7 8 9 10 11
+2020-03-09 01:22;53 INFO  Collection:34 - Enter the position to be fetched : 
+2020-03-09 01:23;03 DEBUG Collection:75 - The element is fetched at posistion 1
+2020-03-09 01:23;03 INFO  Collection:36 - value at index 0 is 2
+2020-03-09 01:23;03 INFO  Collection:37 - List size : 11
+2020-03-09 01:23;03 INFO  Collection:101 - Printing of an element start
+2020-03-09 01:23;03 DEBUG Collection:104 - Element is 1 
+2020-03-09 01:23;03 DEBUG Collection:104 - Element is 2 
+2020-03-09 01:23;03 DEBUG Collection:104 - Element is 3 
+2020-03-09 01:23;03 DEBUG Collection:104 - Element is 4 
+2020-03-09 01:23;03 DEBUG Collection:104 - Element is 5 
+2020-03-09 01:23;03 DEBUG Collection:104 - Element is 6 
+2020-03-09 01:23;03 DEBUG Collection:104 - Element is 7 
+2020-03-09 01:23;03 DEBUG Collection:104 - Element is 8 
+2020-03-09 01:23;03 DEBUG Collection:104 - Element is 9 
+2020-03-09 01:23;03 DEBUG Collection:104 - Element is 10 
+2020-03-09 01:23;03 DEBUG Collection:104 - Element is 11 
+2020-03-09 01:23;03 INFO  Collection:106 - printing of an element --end--
